@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>yoloAnnotator/img</folder>
+	<filename>dimitris-gerebakanis-260918-unsplash.jpg</filename>
+	<size>
+		<width>598</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plane</name>
+		<pose> </pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>82</ymin>
+			<xmax>376</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose> </pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>11</ymin>
+			<xmax>577</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>
